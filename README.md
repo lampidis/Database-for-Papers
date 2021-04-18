@@ -18,4 +18,5 @@ This is the complete codebase of the App that manages storing and retrieving of 
 
 - **Sotirios Stavrakopoulos** - [stavrako](https://github.com/stavrako/)
 
-- **Loukas Lampidis**
+- **Loukas Lampidis** - [lampidis]((https://github.com/lampidis/)
+
