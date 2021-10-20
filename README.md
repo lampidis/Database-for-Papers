@@ -1,5 +1,5 @@
 # ece-data-bases
-Project for course Data-Bases.
+Project for course Data-Bases about scientific papers.
 
 ## Description
 
